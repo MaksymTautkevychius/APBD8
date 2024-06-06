@@ -135,3 +135,4 @@ C:\Users\maksc\APBD9\APBD9\obj\Debug\net8.0\refint\APBD9.dll
 C:\Users\maksc\APBD9\APBD9\obj\Debug\net8.0\APBD9.pdb
 C:\Users\maksc\APBD9\APBD9\obj\Debug\net8.0\APBD9.genruntimeconfig.cache
 C:\Users\maksc\APBD9\APBD9\obj\Debug\net8.0\ref\APBD9.dll
+C:\Users\maksc\APBD9\APBD9\obj\Debug\net8.0\APBD9.sourcelink.json
